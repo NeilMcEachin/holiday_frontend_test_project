@@ -1,0 +1,29 @@
+{
+  "Vue Template Component": {
+    "prefix": "24gBase",
+    "body": [
+      "<template>",
+      "\t<div></div>",
+      "</template>",
+      "",
+      "<script>",
+      "export default {",
+      "\tname: 'default',",
+      "\tcomponents: {},",
+      "\tprops: {},",
+      "\tdata() {",
+      "\t\treturn {};",
+      "\t},",
+      "\tcreated() {},",
+      "\tcomputed: {},",
+      "\twatch: {},",
+      "\tmethods: {},",
+      "};",
+      "</script>",
+      "",
+      "<style lang=\"scss\" scoped></style>",
+      ""
+    ],
+    "description": "Base for Vue File with SCSS"
+  }
+}

@@ -1,0 +1,15 @@
+# Request review for files in the root .github directory
+/.github/* @twentyfourg/frontend-lead
+# /.github/workflows/ @twentyfourg/cloud-team
+
+# All files and subdirectories in the root .vscode directory
+/.vscode/ @twentyfourg/frontend-lead
+
+# Various linting and config files
+/.editorconfig @twentyfourg/frontend-lead
+/.eslint* @twentyfourg/frontend-lead
+/.prettier* @twentyfourg/frontend-lead
+/commitlint.config.js @twentyfourg/frontend-lead
+/jsconfig.js @twentyfourg/frontend-lead
+/lint-staged.config.js @twentyfourg/frontend-lead
+/stylelint.config.js @twentyfourg/frontend-lead
