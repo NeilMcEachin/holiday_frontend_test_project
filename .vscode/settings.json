@@ -57,5 +57,8 @@
   // CSS
   // ===
 
-  "stylelint.enable": true
+  "stylelint.enable": true,
+  "[xml]": {
+    "editor.defaultFormatter": "mikeburgh.xml-format"
+  }
 }

@@ -37,6 +37,11 @@ module.exports = {
     },
   },
   chainWebpack: (config) => {
+    config.module
+      .rule('js')
+      .exclude.add(/\.storybook/)
+      .end()
+      .end();
     // SVG Loader
     // To use SVGs inline (<svg>), load them as you would any Vue component.
     // To use as images (<img>, url(...)), append `?external` to the filename.
