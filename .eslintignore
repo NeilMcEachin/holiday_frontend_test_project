@@ -2,3 +2,4 @@
 /tests/unit/coverage/
 generated-stories-entry.js
 storybook-init-framework-entry.js
+/**

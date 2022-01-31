@@ -63,10 +63,10 @@ export default {
       return !!this.$slots.footer;
     },
     transitionName() {
-      if (this.$mq === 'sm') return 'modal-fade';
-      if (this.type === 'modal') return 'modal-fade';
-      if (this.type === 'drawer') return 'modal-slide';
-      return 'modal-fade';
+      // if (this.$mq === 'sm') return 'modal-fade';
+      // if (this.type === 'modal') return 'modal-fade';
+      // if (this.type === 'drawer') return 'modal-slide';
+      return 'modal-float';
     },
   },
   methods: {
@@ -131,6 +131,38 @@ export default {
 
   .modal {
     transition: transform 0.5s ease;
+  }
+}
+
+.modal-float-enter,
+.modal-float-leave-to {
+  opacity: 0;
+
+  .modal {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+}
+.modal-float-enter-to,
+.modal-float-leave {
+  opacity: 1;
+  .modal {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.modal-float-enter-active {
+  transition: opacity 0.5s ease;
+
+  .modal {
+    transition: transform 0.75s ease, opacity 0.75s ease-out;
+  }
+}
+.modal-float-leave-active {
+  transition: opacity 0.35s ease;
+
+  .modal {
+    transition: transform 0.35s ease, opacity 0.35s ease-out;
   }
 }
 .modal-bg {

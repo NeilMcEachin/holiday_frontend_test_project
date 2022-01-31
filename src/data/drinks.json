@@ -4,8 +4,8 @@
       "id": 1,
       "name": "Boozy Hot Chocolate",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card1_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card1_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card1_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card1_back.png"
       },
       "ingredients": [
         "1 packet of hot chocolate of choice",
@@ -26,8 +26,8 @@
       "id": 2,
       "name": "El Gregorita",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card2_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card2_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card2_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card2_back.png"
       },
       "ingredients": [
         "2 oz. of homemade jalapeño-infused tequila (preferably Casamigos with a jalapeño and its seeds infused for about 10 hours)",
@@ -49,8 +49,8 @@
       "id": 3,
       "name": "Apple Cider Mimosa",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card3_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card3_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card3_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card3_back.png"
       },
       "ingredients": [
         "1.5 oz. caramel vodka",
@@ -70,8 +70,8 @@
       "id": 4,
       "name": "Milk Punch",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card4_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card4_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card4_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card4_back.png"
       },
       "ingredients": [
         "2 oz. bourbon",
@@ -93,8 +93,8 @@
       "id": 5,
       "name": "Tipsy Mermaid",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card5_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card5_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card5_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card5_back.png"
       },
       "ingredients": [
         "2 oz. gin",
@@ -110,8 +110,8 @@
       "id": 6,
       "name": "Blood Orange Margarita",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card6_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card6_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card6_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card6_back.png"
       },
       "ingredients": [
         "2.5 parts reposado tequila",
@@ -133,8 +133,8 @@
       "id": 7,
       "name": "Maple Old Fashioned",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card7_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card7_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card7_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card7_back.png"
       },
       "ingredients": [
         "2 oz. bourbon or rye (Buffalo Trace is a good one for this)",
@@ -157,8 +157,8 @@
       "id": 8,
       "name": "The Henry",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card8_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card8_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card8_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card8_back.png"
       },
       "ingredients": [
         "1 part tequila",
@@ -176,8 +176,8 @@
       "id": 9,
       "name": "Hybrid 24",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card9_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card9_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card9_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card9_back.png"
       },
       "ingredients": [
         "1 oz. gin",
@@ -199,8 +199,8 @@
       "id": 10,
       "name": "Cozy Spiced Old Fashioned",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card10_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card10_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card10_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card10_back.png"
       },
       "ingredients": [
         "2 oz. Woodford Reserve Bourbon",
@@ -226,8 +226,8 @@
       "id": 11,
       "name": "Cucumber Collins",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card11_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card11_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card11_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card11_back.png"
       },
       "ingredients": [
         "Freshly squeezed lemon juice",
@@ -250,8 +250,8 @@
       "id": 12,
       "name": "White Russian",
       "images": {
-        "front": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card12_front.png",
-        "back": "https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/card12_back.png"
+        "front": "https://assets.24g.com/public/2022-frontend-test-project/card12_front.png",
+        "back": "https://assets.24g.com/public/2022-frontend-test-project/card12_back.png"
       },
       "ingredients": ["2 oz. vodka", "1 oz. coffee liqueur (Kahlúa)", "1/2 oz. high-fat cream (to avoid curdling)"],
       "steps": [

@@ -14,7 +14,7 @@ const Template = (args, { argTypes }) => ({
 export const Primary = Template.bind({});
 Primary.args = {
   show: true,
-  title: 'El Gregorita',
+  name: 'El Gregorita',
   ingredients: [
     '2 oz. of homemade jalapeño-infused tequila (preferably Casamigos with a jalapeño and its seeds infused for about 10 hours)',
     '1 oz. Triple Sec',

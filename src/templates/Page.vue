@@ -24,16 +24,16 @@ export default {
   justify-content: center;
   max-width: 100vw;
   min-height: 100vh;
-  background-image: url('https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/bg_mobile.png');
+  background-image: url('https://assets.24g.com/public/2022-frontend-test-project/bg_mobile.png');
   background-position: top center;
-  background-size: cover;
+  background-size: 100%;
 
   @include bp-md-tablet {
-    background-image: url('https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/bg_tablet.png');
+    background-image: url('https://assets.24g.com/public/2022-frontend-test-project/bg_tablet.png');
   }
 
   @include bp-xl-desktop {
-    background-image: url('https://static-asset-hosting.s3.amazonaws.com/test-projects/2022-frontend/bg_desktop.png');
+    background-image: url('https://assets.24g.com/public/2022-frontend-test-project/bg_desktop.png');
   }
 
   .logo {
